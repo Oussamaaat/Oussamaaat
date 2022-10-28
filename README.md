@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oussamaaat
 - 👀 I’m interested in ML & DL
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on a Web Mapping Project
+- 💞️ I’m looking to collaborate on a geospatial project.
 - 📫 Reach me out on Twitter @oussamaaat
 
 <!---
